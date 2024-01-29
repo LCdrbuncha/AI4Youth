@@ -1,0 +1,8 @@
+SalesKey,StoreKey,ProductKey,UnitPrice,SalesQuantity,SalesAmount,BrandName,ColorName,ZipCode,StoreName
+75,67,650,78,20,,,Contoso Houston No.2 Store,70001,
+70,68,1866,999.9,2,,,Contoso Houston No.3 Store,70001,
+68,70,1067,338,9,,,Contoso Midland Store,70001,
+69,72,1379,23,9,,,Contoso Minden Store,70001,
+65,79,446,219.95,18,,,Contoso Baytown Store,70001,
+40,83,1946,899,13,,,Contoso Pasadena Store,70001,
+74,87,2373,299.99,10,,,Contoso San Antonio Store,70001,
